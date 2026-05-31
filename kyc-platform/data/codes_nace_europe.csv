@@ -1,0 +1,24 @@
+code_nace,section,division,libelle_fr,libelle_en,risque_lcb,secteur_assujetti
+K64.1,K,64,Intermédiations monétaires,Monetary intermediation,ÉLEVÉ,OUI
+K64.2,K,64,Activités des sociétés holding,Activities of holding companies,ÉLEVÉ,OUI
+K64.3,K,64,"Trusts, fonds et entités financières similaires","Trusts, funds and similar financial entities",ÉLEVÉ,OUI
+K64.9,K,64,Autres activités de services financiers,Other financial service activities,ÉLEVÉ,OUI
+K65.1,K,65,Assurance,Insurance,MOYEN,OUI
+K65.2,K,65,Réassurance,Reinsurance,MOYEN,Partiel
+K65.3,K,65,Caisses de retraite,Pension funding,FAIBLE,Partiel
+K66.1,K,66,Activités auxiliaires de services financiers,Activities auxiliary to financial services,MOYEN,OUI
+K66.2,K,66,Activités auxiliaires d'assurance,Activities auxiliary to insurance,MOYEN,OUI
+K66.3,K,66,Gestion de fonds,Fund management activities,ÉLEVÉ,OUI
+L68.1,L,68,Marchands de biens immobiliers,Buying and selling real estate,ÉLEVÉ,OUI
+L68.3,L,68,Agences et gestionnaires immobiliers,Real estate agents,ÉLEVÉ,OUI
+M69.1,M,69,Activités juridiques,Legal activities,MOYEN,OUI
+M69.2,M,69,Activités comptables,Accounting activities,MOYEN,OUI
+M70.1,M,70,Sièges sociaux,Activities of head offices,ÉLEVÉ,NON
+M70.2,M,70,Conseil en gestion,Management consultancy,MOYEN,NON
+N82.9,N,82,Autres activités de soutien aux entreprises,Business support activities NEC,MOYEN,NON - sauf domiciliation
+R92,R,92,Jeux de hasard et d'argent,Gambling and betting activities,ÉLEVÉ,OUI
+J62,J,62,Programmation et conseil informatique,Computer programming,FAIBLE,NON - sauf PSAN
+G47,G,47,Commerce de détail,Retail trade,FAIBLE,NON - sauf espèces élevées
+I55,I,55,Hébergement,Accommodation,MOYEN,NON
+I56,I,56,Restauration,Food and beverage service,MOYEN,NON
+H53,H,53,Services postaux et de messagerie,Postal and courier activities,MOYEN,Partiel

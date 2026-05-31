@@ -1,0 +1,58 @@
+code_iso2,pays,region,statut_gafi,risque_lcb,risque_sanctions,liste_eu,notes
+FR,France,Europe Occidentale,Membre GAFI,FAIBLE,NON,Non,
+DE,Allemagne,Europe Occidentale,Membre GAFI,FAIBLE,NON,Non,
+GB,Royaume-Uni,Europe,Membre GAFI,FAIBLE,NON,Non,Post-Brexit
+US,États-Unis,Amérique du Nord,Membre GAFI,FAIBLE,NON,Non,Droit extraterritorial OFAC
+CH,Suisse,Europe,Membre GAFI,FAIBLE,NON,Non,Place financière internationale
+LU,Luxembourg,Europe Occidentale,Membre GAFI,MOYEN,NON,Non,Centre fonds d'investissement
+NL,Pays-Bas,Europe Occidentale,Membre GAFI,FAIBLE,NON,Non,
+BE,Belgique,Europe Occidentale,Membre GAFI,FAIBLE,NON,Non,
+ES,Espagne,Europe Occidentale,Membre GAFI,FAIBLE,NON,Non,
+IT,Italie,Europe Occidentale,Membre GAFI,FAIBLE,NON,Non,
+PT,Portugal,Europe Occidentale,Membre GAFI,FAIBLE,NON,Non,
+IE,Irlande,Europe Occidentale,Membre GAFI,MOYEN,NON,Non,Structure fiscale attractive
+CY,Chypre,Europe Orientale,MONEYVAL,MOYEN,NON,Non,Attention structures offshore passées
+MT,Malte,Europe Méridionale,MONEYVAL,MOYEN,NON,Non,Évaluation GAFI en cours
+HU,Hongrie,Europe Orientale,Membre GAFI,MOYEN,NON,Non,
+RO,Roumanie,Europe Orientale,MONEYVAL,MOYEN,NON,Non,
+BG,Bulgarie,Europe Orientale,MONEYVAL,MOYEN,NON,Non,
+GR,Grèce,Europe Méridionale,Membre GAFI,MOYEN,NON,Non,
+AE,Émirats Arabes Unis,Moyen-Orient,Membre GAFI,ÉLEVÉ,OUI-partiel,Non,Liste grise GAFI (2022-2024)
+TR,Turquie,Europe/Asie,Membre GAFI,ÉLEVÉ,OUI-partiel,Non,Liste grise GAFI
+SA,Arabie Saoudite,Moyen-Orient,Membre GAFI,ÉLEVÉ,OUI-partiel,Non,
+CN,Chine,Asie,Membre GAFI,ÉLEVÉ,OUI-partiel,Non,Risque contournement sanctions RU
+RU,Russie,Europe/Asie,Suspendu GAFI,CRITIQUE,OUI,OUI,"Sanctions UE, OFAC, HMT massives - 2022"
+BY,Biélorussie,Europe Orientale,Non-membre,CRITIQUE,OUI,OUI,Régime Loukachenko - sanctions UE
+IR,Iran,Moyen-Orient,Liste noire GAFI,CRITIQUE,OUI,OUI,Financement terrorisme - contre-mesures obligatoires
+KP,Corée du Nord,Asie,Liste noire GAFI,CRITIQUE,OUI,OUI,Prolifération nucléaire - embargo total
+MM,Myanmar,Asie,Liste grise GAFI,ÉLEVÉ,OUI,OUI,Coup d'État 2021 - sanctions
+SY,Syrie,Moyen-Orient,Non-membre,CRITIQUE,OUI,OUI,Conflit armé - sanctions totales
+CU,Cuba,Caraïbes,Non-membre,ÉLEVÉ,OUI,OUI,Embargo USA - sanctions ciblées UE
+VE,Venezuela,Amérique du Sud,Non-membre,ÉLEVÉ,OUI,OUI,Sanctions ciblées UE/OFAC
+KH,Cambodge,Asie,Liste grise GAFI,ÉLEVÉ,NON,Non,
+PK,Pakistan,Asie,Sortie liste grise 2024,ÉLEVÉ,NON,Non,Financement terrorisme préoccupant
+NG,Nigeria,Afrique,Liste grise GAFI 2023,ÉLEVÉ,NON,Non,
+ZA,Afrique du Sud,Afrique,Liste grise GAFI 2023,ÉLEVÉ,NON,Non,
+PA,Panama,Amérique Centrale,Membre GAFI,MOYEN,NON,Non,Réputation offshore (Panama Papers)
+KY,Îles Caïmans,Caraïbes,Liste grise GAFI (passée),MOYEN,NON,Non,Centre fonds offshore
+VG,Îles Vierges Britanniques,Caraïbes,Non-membre,ÉLEVÉ,NON,Non,"Société-écrans, offshore"
+BZ,Belize,Amérique Centrale,Non-membre,ÉLEVÉ,NON,Non,Offshore
+MO,Macao,Asie,Membre GAFI,MOYEN,NON,Non,Jeux - blanchiment
+AU,Australie,Océanie,Membre GAFI,FAIBLE,NON,Non,
+CA,Canada,Amérique du Nord,Membre GAFI,FAIBLE,NON,Non,
+JP,Japon,Asie,Membre GAFI,FAIBLE,NON,Non,
+SG,Singapour,Asie,Membre GAFI,MOYEN,NON,Non,Place financière - vigilance
+HK,Hong Kong,Asie,Membre GAFI,MOYEN,NON,Non,Post-loi sécurité nationale
+IN,Inde,Asie,Membre GAFI,MOYEN,NON,Non,
+BR,Brésil,Amérique du Sud,Membre GAFI,MOYEN,NON,Non,
+MX,Mexique,Amérique du Nord,Membre GAFI,ÉLEVÉ,NON,Non,Crime organisé - cartels
+CO,Colombie,Amérique du Sud,Non-membre GAFI,ÉLEVÉ,NON,Non,Narco-trafic historique
+AF,Afghanistan,Asie,Non-membre,CRITIQUE,OUI,OUI,Taliban - financement terrorisme
+IQ,Irak,Moyen-Orient,Non-membre,ÉLEVÉ,OUI-partiel,OUI,
+LY,Libye,Afrique du Nord,Non-membre,ÉLEVÉ,OUI,OUI,
+SD,Soudan,Afrique,Non-membre,ÉLEVÉ,OUI,OUI,
+LI,Liechtenstein,Europe,MONEYVAL,MOYEN,NON,Non,"Trusts, fondations"
+GI,Gibraltar,Europe,Non-membre UE,MOYEN,NON,Non,Crypto hub
+JE,Jersey,Îles Anglo-Normandes,Non-membre UE,MOYEN,NON,Non,Centre offshore
+GG,Guernesey,Îles Anglo-Normandes,Non-membre UE,MOYEN,NON,Non,Centre offshore
+IM,Île de Man,Îles Britanniques,Non-membre UE,MOYEN,NON,Non,

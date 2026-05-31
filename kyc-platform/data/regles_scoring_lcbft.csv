@@ -1,0 +1,13 @@
+id_regle,categorie,regle,poids,niveau_declenchement,valeur_risque_bas,valeur_risque_moyen,valeur_risque_eleve,article_cmt,notes
+R01,Client,Type de client,15%,Obligatoire,Personne physique résidente,Personne morale France,PPE ou entité étrangère,L.561-4-1 CMF,
+R02,Client,Pays de résidence,20%,Obligatoire,UE / OCDE,Pays tiers standard,Liste GAFI / sanctions,L.561-4-1 CMF,Cumul avec autres facteurs
+R03,Client,Secteur d'activité,15%,Obligatoire,Commerce standard,Services financiers,Jeux / Immobilier / Crypto,Art. L.561-4-1 CMF,Voir codes NAF à risque
+R04,Opérations,Nature des opérations,15%,Obligatoire,Opérations courantes,Investissements,Opérations cash / complexes,L.561-8 CMF,
+R05,Client,Structure de propriété,10%,Obligatoire,Personne physique directe,Holding simple,Structure multicouche / trust,L.561-5 CMF,
+R06,Client,Statut PPE,10%,Obligatoire,Non-PPE,PPE nationale faible exposition,PPE haute exposition / internationale,L.561-7 CMF,Vigilance renforcée systématique
+R07,Opérations,Origine des fonds,10%,Élevé / VR,Justifiée documentée,Justifiée partielle,Injustifiable / pays tiers,L.561-10 CMF,
+R08,Client,Adverse media,5%,Élevé,Aucun résultat,Résultats anciens/mineurs,Actualités défavorables récentes,AMLD5 Art.18bis,
+R09,Screening,Résultats sanctions,Bloquant,Obligatoire,Clear toutes listes,Faux positifs confirmés,Hit qualifié,L.562-4-1 CMF,Hit confirmé = blocage obligatoire
+R10,Opérations,Géographie des flux,5%,Élevé,Flux domestiques,Flux UE / OCDE,Flux pays GAFI / sanctions,L.561-10 CMF,
+R11,Client,Ancienneté relation,2%,Standard,Relation > 3 ans,Relation < 1 an,Première opération,L.561-8 CMF,Facteur atténuant si longue
+R12,Documents,Complétude dossier,3%,Obligatoire,Dossier complet,Dossier partiel,Documents manquants essentiels,L.561-5 CMF,Bloquant si pièces essentielles absentes

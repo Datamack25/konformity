@@ -1,0 +1,15 @@
+id,nom,editeur,pays_editeur,url_api,format,frequence_maj,entites_couvertes,gratuit,usage_obligatoire_france,notes
+SRC-001,GAFI Liste Noire,GAFI,International,https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions,PDF/Web,Variable,Pays,OUI,OUI,Contre-mesures obligatoires
+SRC-002,GAFI Liste Grise,GAFI,International,https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions,PDF/Web,3x/an,Pays,OUI,OUI,Surveillance renforcée
+SRC-003,UE - Mesures restrictives PESC,Conseil UE,UE,https://data.europa.eu/data/datasets/eu-financial-sanctions,XML/CSV/API,Temps réel,Personnes/Entités,OUI,OUI,Obligation AMLD6
+SRC-004,OFAC SDN List,US Treasury,USA,https://ofac.treasury.gov/sanctions-list-service,XML/CSV/API,Temps réel,Personnes/Entités,OUI,NON - mais recommandé,Risque extra-territorial pour banques USD
+SRC-005,HMT Consolidated List,UK Treasury,UK,https://www.gov.uk/government/publications/financial-sanctions-consolidated-list,CSV/XML,Quotidien,Personnes/Entités,OUI,NON - mais recommandé,Post-Brexit
+SRC-006,ONU Comité 1267/1988/1718,ONU,International,https://scsanctions.un.org,XML,Variable,Personnes/Entités,OUI,OUI,"Al-Qaïda, Daesh, Corée du Nord"
+SRC-007,DGT Gels d'avoirs,Direction Générale du Trésor,France,https://gels-avoirs.dgtresor.gouv.fr,API JSON/XML,Temps réel,Personnes/Entités,OUI,OUI,L.562-4-1 CMF - obligation résultat
+SRC-008,SECO Sanctions,SECO Suisse,Suisse,https://www.seco.admin.ch,XML,Variable,Personnes/Entités,OUI,NON,Pour CHF et entités suisses
+SRC-009,OpenSanctions,OpenSanctions GmbH,Allemagne,https://api.opensanctions.org,API/CSV,Quotidien,70 000+ entités,OUI (base),NON,Consolide 100+ listes
+SRC-010,ComplyAdvantage Mesh,ComplyAdvantage,UK,https://api.complyadvantage.com,REST API,Temps réel (15min),120M+ profils,NON - payant,NON,PPE + sanctions + adverse media
+SRC-011,WorldCheck,LSEG/Refinitiv,UK,API privée,REST API,Continue,3M+ profils structurés,NON - payant,NON,Standard industrie bancaire
+SRC-012,Dow Jones Risk & Compliance,Dow Jones,USA,API privée,REST API,Continue,Large couverture,NON - payant,NON,Adverse media structuré
+SRC-013,LexisNexis WorldCompliance,LexisNexis,USA,API privée,REST API,Continue,Large couverture,NON - payant,NON,Intégration outil compliance
+SRC-014,Acuris/Mergermarket,Acuris,UK,API privée,REST API,Quotidien,Adverse media,NON - payant,NON,Focus M&A et corporate

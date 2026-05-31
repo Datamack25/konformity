@@ -1,0 +1,6 @@
+id,date,heure,operateur,type_entite,nom_recherche,siren,sources_interrogees,nb_hits,qualification,decision,notes
+SCR-001,2026-05-28,09:15,M. Dupont,Société,Alpha Invest SAS,842156789,"Pappers,OpenSanctions,ComplyAdvantage,AMF",0,N/A,Clear,Dossier standard
+SCR-002,2026-05-28,10:45,S. Martin,Personne physique,Pierre DURAND,,"OpenSanctions,ComplyAdvantage,DGT",1,Faux positif,Clear,Homonymie confirmée
+SCR-003,2026-05-29,11:20,M. Dupont,Société,Gamma Holdings SA,912345678,"Pappers,OpenSanctions,ComplyAdvantage,AMF,ICIJ",2,À qualifier,Escalade,Hit UBO - examen renforcé
+SCR-004,2026-05-29,14:30,A. Leblanc,Personne physique,Hélène MÜLLER,,"OpenSanctions,ComplyAdvantage,DGT,PPE_DB",0,N/A,Clear,Dirigeante Étoile Conseil
+SCR-005,2026-05-30,09:00,S. Martin,Société,Beta Finance SARL,731245678,"Pappers,OpenSanctions,ComplyAdvantage",0,N/A,Clear,

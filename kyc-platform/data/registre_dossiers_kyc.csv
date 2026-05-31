@@ -1,0 +1,8 @@
+id_dossier,date_ouverture,date_mise_a_jour,raison_sociale,siren,forme_juridique,pays,secteur_naf,score_risque,regime_vigilance,statut,analyste,screening_statut,documents_complets,date_prochaine_revue,notes
+DOS-2026-001,2026-01-15,2026-05-20,Alpha Invest SAS,842156789,SAS,France,6630Z,MOYEN,Standard,Validé,M. Dupont,Clear,OUI,2027-01-15,Revu annuellement
+DOS-2026-002,2026-02-10,2026-04-15,BetaCorp SARL,731245678,SARL,France,7022Z,FAIBLE,Standard,Validé,S. Martin,Clear,OUI,2027-02-10,
+DOS-2026-003,2026-03-05,2026-05-29,Gamma Holdings SA,912345678,SA,Luxembourg,7010Z,ÉLEVÉ,Renforcée,Escalade,A. Leblanc,Hit potentiel,NON,2026-09-05,Hit UBO - examen en cours
+DOS-2026-004,2026-04-20,2026-05-28,Delta Finance SA,654321987,SA,France,6612Z,MOYEN,Standard,Validé,M. Dupont,Clear,OUI,2027-04-20,
+DOS-2026-005,2026-05-01,2026-05-30,Epsilon Conseil SAS,789456123,SAS,France,7022Z,FAIBLE,Standard,Validé,S. Martin,Clear,OUI,2027-05-01,
+DOS-2026-006,2026-05-15,2026-05-30,Zeta Trading SA,856321741,SA,Pays-Bas,6612Z,ÉLEVÉ,Renforcée,En cours,M. Dupont,À qualifier,NON,,Dirigeant PPE déclaré
+DOS-2026-007,2026-05-20,2026-05-30,Étoile Conseil SAS,123456789,SAS,France,7022Z,MOYEN,Standard,En cours,A. Leblanc,Clear,NON,,Test pipeline KYC

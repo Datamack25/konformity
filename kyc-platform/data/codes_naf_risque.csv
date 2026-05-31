@@ -1,0 +1,69 @@
+code_naf,libelle,risque_lcb,notes
+6419Z,Autres intermédiations monétaires,ÉLEVÉ,"Banques, établissements de crédit"
+6491Z,Crédit-bail,MOYEN,Financement d'équipements
+6492Z,Autre distribution de crédit,MOYEN,Crédit à la consommation
+6499Z,"Autres activités de services financiers, hors assurance et caisses de retraite, NCA",ÉLEVÉ,
+6611Z,Administration de marchés financiers,ÉLEVÉ,"Marchés réglementés, compensation"
+6612Z,Courtage de valeurs mobilières et de marchandises,ÉLEVÉ,Intermédiaires marchés
+6619A,Supports juridiques de gestion de patrimoine mobilier,ÉLEVÉ,"SPV, holdings patrimoniales"
+6619B,"Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite, NCA",MOYEN,
+6621Z,Évaluation des risques et dommages,FAIBLE,Expertise assurance
+6622Z,Activités des agents et courtiers d'assurances,MOYEN,Intermédiaires assurance
+6629Z,Autres activités auxiliaires d'assurance et de caisses de retraite,FAIBLE,
+6630Z,Gestion de fonds,ÉLEVÉ,"SGP, OPCVM, FIA"
+6810Z,Activités des marchands de biens immobiliers,ÉLEVÉ,Achat-revente immobilier
+6820A,Location de logements,FAIBLE,
+6820B,Location de terrains et d'autres biens immobiliers,FAIBLE,
+6831Z,Agences immobilières,ÉLEVÉ,Intermédiaires transactions immobilières
+6832A,Administration d'immeubles résidentiels,FAIBLE,
+6910Z,Activités juridiques,MOYEN,"Avocats, notaires - assujettis LCB-FT"
+6920Z,Activités comptables,MOYEN,Experts-comptables - assujettis LCB-FT
+7010Z,Activités des sièges sociaux,ÉLEVÉ,Holdings pures
+7021Z,Conseil en relations publiques et communication,FAIBLE,
+7022Z,Conseil pour les affaires et autres conseils de gestion,MOYEN,Conseil stratégie/management
+7111Z,Activités d'architecture,FAIBLE,
+7112A,Activités d'ingénierie génie civil,FAIBLE,
+7490A,Activité des économistes de la construction,FAIBLE,
+7711A,Location de courte durée de voitures et de véhicules automobiles légers,FAIBLE,
+7810Z,Activités des agences de placement de main-d'œuvre,MOYEN,
+8010Z,Activités de sécurité privée,MOYEN,
+9200Z,Activités de jeux de hasard et d'argent,ÉLEVÉ,"Casinos, paris - assujettis LCB-FT"
+9319Z,Autres activités liées au sport,FAIBLE,Attention : transferts footballeurs
+5510Z,Hôtels et hébergement similaire,MOYEN,Risque blanchiment via recettes espèces
+5610A,Restauration traditionnelle,MOYEN,Secteur espèces
+4711A,Commerce de détail de produits surgelés,FAIBLE,
+4711B,Commerce d'alimentation générale,FAIBLE,
+4752B,"Commerce de détail de quincaillerie, peintures et verres en grandes surfaces",FAIBLE,
+4776Z,"Commerce de détail de fleurs, plantes, graines, engrais, animaux",FAIBLE,
+4799B,Vente à distance sur catalogue spécialisé,FAIBLE,
+6201Z,Programmation informatique,FAIBLE,Attention PSAN si crypto
+6202A,Conseil en systèmes et logiciels informatiques,FAIBLE,
+6311Z,"Traitement de données, hébergement et activités connexes",FAIBLE,
+6312Z,Portails Internet,FAIBLE,
+6391Z,Activités des agences de presse,FAIBLE,
+6411Z,Activités de banque centrale,ÉLEVÉ,Banque de France
+6412Z,Activités des banques AFB,ÉLEVÉ,Banques commerciales
+6419Z,Autres intermédiations monétaires,ÉLEVÉ,
+6461Z,Fonds de placement en valeurs mobilières,ÉLEVÉ,OPCVM
+6462Z,Fonds de placement immobiliers,ÉLEVÉ,"SCPI, OPCI"
+6463Z,Fonds de placement autres,ÉLEVÉ,"Hedge funds, PE"
+6470Z,Véhicules de titrisation,ÉLEVÉ,SPV titrisation
+6491Z,Crédit-bail,MOYEN,
+6511Z,Assurance vie,MOYEN,Assurance-vie : produit à risque LCB-FT
+6512Z,Autres assurances,FAIBLE,
+6521Z,Réassurance vie,FAIBLE,
+6522Z,Réassurance dommages,FAIBLE,
+6530Z,Caisses de retraite,FAIBLE,
+6601Z,Assurance-vie,MOYEN,
+6603Z,Assurance dommages,FAIBLE,
+6604Z,Assurances pour compte,FAIBLE,
+7740Z,Location-bail de propriété intellectuelle et de produits similaires,FAIBLE,Sauf si structuration IP
+8219Z,"Photocopie, préparation de documents",FAIBLE,
+8299Z,Autres activités de soutien aux entreprises NCA,MOYEN,Domiciliation - risque PPE/holdings
+8411Z,Administration publique générale,FAIBLE,Personnes morales de droit public
+9411Z,Activités des organisations patronales et consulaires,FAIBLE,
+9412Z,Activités des organisations professionnelles,FAIBLE,
+9420Z,Activités des syndicats de salariés,FAIBLE,
+9491Z,Activités des organisations religieuses,MOYEN,Attention financement terrorisme
+9492Z,Activités des organisations politiques,ÉLEVÉ,Financement politique - PPE
+9499Z,Activités des organisations associatives NCA,MOYEN,ONG - financement terrorisme
